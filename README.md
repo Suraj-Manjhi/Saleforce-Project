@@ -1,5 +1,6 @@
 [213930720-bc9259cd-2d9d-4f78-b2a6-0a5252323caf.png ](https://github.com/Surajmanjhi2003/Saleforce-Project/blob/b565d76324c2f931dc0bf1e17c2077a54f5ec96a/213930720-bc9259cd-2d9d-4f78-b2a6-0a5252323caf.png)
 
+ 
 Create Objects from Spreadsheet  
 1. Create Objects from Spreadsheet  
 a. Create Course Object:
@@ -533,6 +534,13 @@ Create a lightning app page
 	Choose the appropriate options to add it to the app (e.g., Default for specific profiles or as a utility).
 7.	Publish the Page:
 	Click Publish to make the page live and accessible in your Salesforce environment.
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
