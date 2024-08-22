@@ -1,0 +1,166 @@
+CODE,CODETYPE,NAME,ISACTIVE
+105411000,SNOMEDCT,Social withdrawal (finding),TRUE
+105529008,SNOMEDCT,Lives alone (finding),TRUE
+105531004,SNOMEDCT,Housing unsatisfactory (finding),TRUE
+105532006,SNOMEDCT,Overcrowded in house (finding),TRUE
+10987541000119104,SNOMEDCT,History of military deployment (finding),TRUE
+1155680000,SNOMEDCT,Limited access to nutrition supplies (finding),TRUE
+1156191002,SNOMEDCT,Housing instability (finding),TRUE
+1156192009,SNOMEDCT,Housing instability due to imminent risk of homelessness (finding),TRUE
+1156193004,SNOMEDCT,Housing instability due to frequent change in place of residence (finding),TRUE
+1156194005,SNOMEDCT,Housing instability following recent homelessness (finding),TRUE
+1156195006,SNOMEDCT,Housing instability due to being behind on payments for place of residence (finding),TRUE
+1156196007,SNOMEDCT,Housing instability due to threat of eviction (finding),TRUE
+12242911000119107,SNOMEDCT,Suspected victim of elder physical abuse (situation),TRUE
+12399491000119102,SNOMEDCT,Suspected victim of elder sexual abuse (situation),TRUE
+12399531000119102,SNOMEDCT,Suspected victim of elder emotional abuse (situation),TRUE
+129698004,SNOMEDCT,At risk for loneliness (finding),TRUE
+129832003,SNOMEDCT,Noncompliance with dietary regimen (finding),TRUE
+15912911000119102,SNOMEDCT,Suspected victim of elder neglect (situation),TRUE
+160695008,SNOMEDCT,Transport too expensive (finding),TRUE
+160696009,SNOMEDCT,Transport distance too great (finding),TRUE
+160726006,SNOMEDCT,Lives alone no help available (finding),TRUE
+160727002,SNOMEDCT,Lives alone needs housekeeper (finding),TRUE
+160899000,SNOMEDCT,Recently unemployed (finding),TRUE
+160900005,SNOMEDCT,Chronic unemployment (finding),TRUE
+224355006,SNOMEDCT,Served in armed forces (finding),TRUE
+224974006,SNOMEDCT,Feeling stressed (finding),TRUE
+22761000175104,SNOMEDCT,At increased risk for social isolation (finding),TRUE
+22791000175108,SNOMEDCT,At increased risk of intimate partner violence (finding),TRUE
+266964007,SNOMEDCT,Left military service (finding),TRUE
+267076002,SNOMEDCT,Feeling lonely (finding),TRUE
+276087003,SNOMEDCT,Deserted from military service (finding),TRUE
+288671000119101,SNOMEDCT,Adult victim of physical abuse by female partner (finding),TRUE
+288681000119103,SNOMEDCT,Adult victim of physical abuse by male partner (finding),TRUE
+293611000119101,SNOMEDCT,History of domestic physical abuse of adult (situation),TRUE
+32911000,SNOMEDCT,Homeless (finding),TRUE
+412732008,SNOMEDCT,History of domestic violence (situation),TRUE
+418150003,SNOMEDCT,Victim of abusive sexual relationship with partner (finding),TRUE
+419482003,SNOMEDCT,Served in armed forces in combat (finding),TRUE
+419951006,SNOMEDCT,Victim of abusive sexual relationship with husband (finding),TRUE
+420180008,SNOMEDCT,Victim of abusive sexual relationship with wife (finding),TRUE
+422611005,SNOMEDCT,Minimal outside social stimulation (finding),TRUE
+422650009,SNOMEDCT,Social isolation (finding),TRUE
+422786001,SNOMEDCT,Lacks emotional support (finding),TRUE
+423315002,SNOMEDCT,Limited social contact (finding),TRUE
+424582000,SNOMEDCT,Stress overload (finding),TRUE
+424629004,SNOMEDCT,Transportation barrier impedes ability to use community resources (finding),TRUE
+425022003,SNOMEDCT,Inadequate social support (finding),TRUE
+441879005,SNOMEDCT,No contact with family (finding),TRUE
+442347009,SNOMEDCT,Emotional stress (finding),TRUE
+445071000124105,SNOMEDCT,Receives no social support (finding),TRUE
+445281000124101,SNOMEDCT,Nutrition impaired due to limited access to healthful foods (finding),TRUE
+454061000124102,SNOMEDCT,Unable to afford medication (finding),TRUE
+459601000124108,SNOMEDCT,Victim of elder physical abuse (finding),TRUE
+459611000124106,SNOMEDCT,History of victim of elder physical abuse (situation),TRUE
+459901000124103,SNOMEDCT,History of victim of elder sexual abuse (situation),TRUE
+470911000124109,SNOMEDCT,Mild food insecurity on United States household food security survey module (finding),TRUE
+470941000124108,SNOMEDCT,Moderate food insecurity on United States household food security survey module (finding),TRUE
+470951000124105,SNOMEDCT,Severe food insecurity on United States household food security survey module (finding),TRUE
+471981000124106,SNOMEDCT,Substandard housing caused by structural insufficiency (finding),TRUE
+471991000124109,SNOMEDCT,Residence does not meet functional needs (finding),TRUE
+472001000124106,SNOMEDCT,At risk of housing code violation (finding),TRUE
+5311000175103,SNOMEDCT,Unable to afford visit copayment (finding),TRUE
+5371000175108,SNOMEDCT,Unable to afford glucose monitoring device (finding),TRUE
+5521000175101,SNOMEDCT,Unable to afford blood pressure monitor (finding),TRUE
+5731000175109,SNOMEDCT,Unable to afford weight scale (finding),TRUE
+697957000,SNOMEDCT,Suspected elderly person maltreatment (situation),TRUE
+704349002,SNOMEDCT,At risk of elder abuse (finding),TRUE
+704489009,SNOMEDCT,Lack of family support (finding),TRUE
+706872008,SNOMEDCT,Victim of elder abuse (finding),TRUE
+706874009,SNOMEDCT,At risk of elder neglect (finding),TRUE
+706875005,SNOMEDCT,Insufficient food supply (finding),TRUE
+706892001,SNOMEDCT,At risk of intimate partner abuse (finding),TRUE
+706893006,SNOMEDCT,Victim of intimate partner abuse (finding),TRUE
+707087005,SNOMEDCT,At risk of domestic violence (finding),TRUE
+713458007,SNOMEDCT,Lack of access to transportation (finding),TRUE
+713820002,SNOMEDCT,Victim of sexual assault by intimate partner (finding),TRUE
+715046004,SNOMEDCT,Unable to obtain medication (finding),TRUE
+720411002,SNOMEDCT,History of domestic physical abuse (situation),TRUE
+720428004,SNOMEDCT,History of domestic emotional abuse (situation),TRUE
+720741001,SNOMEDCT,History of domestic sexual abuse (situation),TRUE
+733423003,SNOMEDCT,Food insecurity (finding),TRUE
+733817003,SNOMEDCT,Decreased social isolation (finding),TRUE
+73438004,SNOMEDCT,Unemployed (finding),TRUE
+73595000,SNOMEDCT,Stress (finding),TRUE
+736769008,SNOMEDCT,Social isolation in parenthood (finding),TRUE
+741062008,SNOMEDCT,Not in labor force (finding),TRUE
+95929000,SNOMEDCT,Psychologically abused elder (finding),TRUE
+95933007,SNOMEDCT,Neglected elder (finding),TRUE
+E63.9,ICD10CM,"Nutritional deficiency, unspecified",TRUE
+T74.01XA,ICD10CM,"Adult neglect or abandonment, confirmed, initial encounter",TRUE
+T74.01XD,ICD10CM,"Adult neglect or abandonment, confirmed, subsequent encounter",TRUE
+T74.01XS,ICD10CM,"Adult neglect or abandonment, confirmed, sequela",TRUE
+T74.11XA,ICD10CM,"Adult physical abuse, confirmed, initial encounter",TRUE
+T74.11XD,ICD10CM,"Adult physical abuse, confirmed, subsequent encounter",TRUE
+T74.11XS,ICD10CM,"Adult physical abuse, confirmed, sequela",TRUE
+T74.12XA,ICD10CM,"Child physical abuse, confirmed, initial encounter",TRUE
+T74.12XD,ICD10CM,"Child physical abuse, confirmed, subsequent encounter",TRUE
+T74.12XS,ICD10CM,"Child physical abuse, confirmed, sequela",TRUE
+T74.21XA,ICD10CM,"Adult sexual abuse, confirmed, initial encounter",TRUE
+T74.21XD,ICD10CM,"Adult sexual abuse, confirmed, subsequent encounter",TRUE
+T74.21XS,ICD10CM,"Adult sexual abuse, confirmed, sequela",TRUE
+T74.22XA,ICD10CM,"Child sexual abuse, confirmed, initial encounter",TRUE
+T74.22XD,ICD10CM,"Child sexual abuse, confirmed, subsequent encounter",TRUE
+T74.22XS,ICD10CM,"Child sexual abuse, confirmed, sequela",TRUE
+T74.31XA,ICD10CM,"Adult psychological abuse, confirmed, initial encounter",TRUE
+T74.31XD,ICD10CM,"Adult psychological abuse, confirmed, subsequent encounter",TRUE
+T74.31XS,ICD10CM,"Adult psychological abuse, confirmed, sequela",TRUE
+T74.32XA,ICD10CM,"Child psychological abuse, confirmed, initial encounter",TRUE
+T74.32XD,ICD10CM,"Child psychological abuse, confirmed, subsequent encounter",TRUE
+T74.32XS,ICD10CM,"Child psychological abuse, confirmed, sequela",TRUE
+T74.91XA,ICD10CM,"Unspecified adult maltreatment, confirmed, initial encounter",TRUE
+T74.91XD,ICD10CM,"Unspecified adult maltreatment, confirmed, subsequent encounter",TRUE
+T74.91XS,ICD10CM,"Unspecified adult maltreatment, confirmed, sequela",TRUE
+T76.01XA,ICD10CM,"Adult neglect or abandonment, suspected, initial encounter",TRUE
+T76.01XD,ICD10CM,"Adult neglect or abandonment, suspected, subsequent encounter",TRUE
+T76.01XS,ICD10CM,"Adult neglect or abandonment, suspected, sequela",TRUE
+T76.11XA,ICD10CM,"Adult physical abuse, suspected, initial encounter",TRUE
+T76.11XD,ICD10CM,"Adult physical abuse, suspected, subsequent encounter",TRUE
+T76.11XS,ICD10CM,"Adult physical abuse, suspected, sequela",TRUE
+T76.12XA,ICD10CM,"Child physical abuse, suspected, initial encounter",TRUE
+T76.12XD,ICD10CM,"Child physical abuse, suspected, subsequent encounter",TRUE
+T76.12XS,ICD10CM,"Child physical abuse, suspected, sequela",TRUE
+T76.21XA,ICD10CM,"Adult sexual abuse, suspected, initial encounter",TRUE
+T76.21XD,ICD10CM,"Adult sexual abuse, suspected, subsequent encounter",TRUE
+T76.21XS,ICD10CM,"Adult sexual abuse, suspected, sequela",TRUE
+T76.22XA,ICD10CM,"Child sexual abuse, suspected, initial encounter",TRUE
+T76.22XD,ICD10CM,"Child sexual abuse, suspected, subsequent encounter",TRUE
+T76.22XS,ICD10CM,"Child sexual abuse, suspected, sequela",TRUE
+T76.31XA,ICD10CM,"Adult psychological abuse, suspected, initial encounter",TRUE
+T76.31XD,ICD10CM,"Adult psychological abuse, suspected, subsequent encounter",TRUE
+T76.31XS,ICD10CM,"Adult psychological abuse, suspected, sequela",TRUE
+T76.32XA,ICD10CM,"Child psychological abuse, suspected, initial encounter",TRUE
+T76.32XD,ICD10CM,"Child psychological abuse, suspected, subsequent encounter",TRUE
+T76.32XS,ICD10CM,"Child psychological abuse, suspected, sequela",TRUE
+T76.91XA,ICD10CM,"Unspecified adult maltreatment, suspected, initial encounter",TRUE
+T76.91XD,ICD10CM,"Unspecified adult maltreatment, suspected, subsequent encounter",TRUE
+T76.91XS,ICD10CM,"Unspecified adult maltreatment, suspected, sequela",TRUE
+Y07.01,ICD10CM,"Husband, perpetrator of maltreatment and neglect",TRUE
+Y07.02,ICD10CM,"Wife, perpetrator of maltreatment and neglect",TRUE
+Y07.03,ICD10CM,"Male partner, perpetrator of maltreatment and neglect",TRUE
+Y07.04,ICD10CM,"Female partner, perpetrator of maltreatment and neglect",TRUE
+Z56.0,ICD10CM,"Unemployment, unspecified",TRUE
+Z59.00,ICD10CM,Homelessness unspecified,TRUE
+Z59.01,ICD10CM,Sheltered homelessness,TRUE
+Z59.02,ICD10CM,Unsheltered homelessness,TRUE
+Z59.1,ICD10CM,Inadequate housing,TRUE
+Z59.41,ICD10CM,Food insecurity,TRUE
+Z59.48,ICD10CM,Other specified lack of adequate food,TRUE
+Z59.811,ICD10CM,"Housing instability, housed, with risk of homelessness",TRUE
+Z59.812,ICD10CM,"Housing instability, housed, homelessness in past 12 months",TRUE
+Z59.819,ICD10CM,"Housing instability, housed unspecified",TRUE
+Z60.2,ICD10CM,Problems related to living alone,TRUE
+Z60.4,ICD10CM,Social exclusion and rejection,TRUE
+Z60.8,ICD10CM,Other problems related to social environment,TRUE
+Z63.8,ICD10CM,Other specified problems related to primary support group,TRUE
+Z65.9,ICD10CM,Problem related to unspecified psychosocial circumstances,TRUE
+Z73.3,ICD10CM,"Stress, not elsewhere classified",TRUE
+Z91.11,ICD10CM,Patient's noncompliance with dietary regimen,TRUE
+Z91.120,ICD10CM,Patient's intentional underdosing of medication regimen due to financial hardship,TRUE
+Z91.410,ICD10CM,Personal history of adult physical and sexual abuse,TRUE
+Z91.411,ICD10CM,Personal history of adult psychological abuse,TRUE
+Z91.412,ICD10CM,Personal history of adult neglect,TRUE
+Z91.419,ICD10CM,Personal history of unspecified adult abuse,TRUE
+Z91.82,ICD10CM,Personal history of military deployment,TRUE
+Z91.89,ICD10CM,"Other specified personal risk factors, not elsewhere classified",TRUE

@@ -1,0 +1,3 @@
+DEVELOPERNAME,ID,ISDELETED,ISDEPRECATED,NAME,PAGENAME,QUESTIONNAME,QUESTIONORDER,QUESTIONTYPE,SURVEYPAGEID,SURVEYVERSIONID
+q_8eae845d_a0de_4aba_9611_7c771460095d,0Ku5f000007qylXCAQ,FALSE,FALSE,How would you rate the level of service you received today?,Page 1,How would you rate the level of service you received today?,1,CSAT,0Ke5f000007qy4oCAA,0Ks5f000007qxZ5CAI
+q_891daae2_27b5_40e1_ba9f_caba4844e380,0Ku5f000007qylYCAQ,FALSE,FALSE,Please enter your email address below:,Page 2,Please enter your email address below:,1,ShortText,0Ke5f000007qy4pCAA,0Ks5f000007qxZ5CAI

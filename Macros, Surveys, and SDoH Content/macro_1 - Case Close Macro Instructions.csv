@@ -1,0 +1,18 @@
+ID,ISDELETED,MACROID,NAME,OPERATION,SORTORDER,TARGET,VALUE,VALUERECORD
+0Ji5f000001SsTsCAK,FALSE,0JZ5f000001SqJ0GAK,57,Select,0,Tab.Case,,
+0Ji5f000001SsTtCAK,FALSE,0JZ5f000001SqJ0GAK,58,If,1,,,
+0Ji5f000001SsTuCAK,FALSE,0JZ5f000001SqJ0GAK,59,Select,2,QuickAction.Case._LightningUpdateCase,,
+0Ji5f000001SsTvCAK,FALSE,0JZ5f000001SqJ0GAK,60,Set,3,Field.Case.Status,Closed,
+0Ji5f000001SsTwCAK,FALSE,0JZ5f000001SqJ0GAK,61,Submit,4,,,
+0Ji5f000001SsTxCAK,FALSE,0JZ5f000001SqJ0GAK,62,EndIf,5,,,
+0Ji5f000001SsTyCAK,FALSE,0JZ5f000001SqJ0GAK,63,Select,6,QuickAction.Case.SendEmailCase,,
+0Ji5f000001SsTzCAK,FALSE,0JZ5f000001SqJ0GAK,64,Set,7,Field.EmailMessage.HtmlBody,"<pre>Thank you for contacting us today. We look forward to supporting you again soon! 
+
+We have resolved your inquiry and have Closed your Case.
+
+Please take a moment to complete a 1-question survey on how we did today: https://healthcloudtrialmaster-15a4d-17d7064251b.force.com/patients/survey/runtimeApp.app?invitationId=0Ki5f000000IAFL&surveyName=customer_service_survey&UUID=3c27d6cf-55a8-4e39-8a6f-622c49940564
+
+Best Regards,
+{{Sender.Name}}</pre>",
+0Ji5f000001SsU0CAK,FALSE,0JZ5f000001SqJ0GAK,65,Set,8,Field.EmailMessage.Subject,<pre>Thank You - Case Closed</pre>,
+0Ji5f000001SsU1CAK,FALSE,0JZ5f000001SqJ0GAK,66,Submit,9,,,

@@ -1,0 +1,235 @@
+CODE,CODETYPE,NAME,ISACTIVE
+1002223009,SNOMEDCT,Assessment of progress toward goals to achieve food security (procedure),TRUE
+1002224003,SNOMEDCT,Assessment for food insecurity (procedure),TRUE
+1002225002,SNOMEDCT,Assessment of barriers in food insecurity care plan (procedure),TRUE
+1004109000,SNOMEDCT,Assessment of goals to achieve food security (procedure),TRUE
+1004110005,SNOMEDCT,Coordination of resources to address food insecurity (procedure),TRUE
+103699006,SNOMEDCT,Patient referral to dietitian (procedure),TRUE
+1148446004,SNOMEDCT,Education about legal aid (procedure),TRUE
+1148447008,SNOMEDCT,Assessment for housing insecurity (procedure),TRUE
+1148812007,SNOMEDCT,Assessment of progress toward goals to achieve housing security (procedure),TRUE
+1148813002,SNOMEDCT,Assessment of barriers in inadequate housing care plan (procedure),TRUE
+1148814008,SNOMEDCT,Assessment of goals to achieve housing security (procedure),TRUE
+1148815009,SNOMEDCT,Assessment of goals to achieve adequate housing (procedure),TRUE
+1148817001,SNOMEDCT,Assessment of barriers in housing insecurity care plan (procedure),TRUE
+1148818006,SNOMEDCT,Coordination of services to assist with maintaining housing security (procedure),TRUE
+1148823006,SNOMEDCT,Assessment of progress toward goals to achieve adequate housing (procedure),TRUE
+171002009,SNOMEDCT,Vocational counseling (procedure),TRUE
+1759002,SNOMEDCT,Assessment of nutritional status (procedure),TRUE
+183524004,SNOMEDCT,Referral to psychiatry service (procedure),TRUE
+183583007,SNOMEDCT,Refer to mental health worker (procedure),TRUE
+183851006,SNOMEDCT,Referral to clinic (procedure),TRUE
+183866009,SNOMEDCT,Referral to emergency clinic (procedure),TRUE
+18781004,SNOMEDCT,Referral to vocational rehabilitation service (procedure),TRUE
+306136006,SNOMEDCT,Referral to liaison psychiatry service (procedure),TRUE
+306137002,SNOMEDCT,Referral to mental handicap psychiatry service (procedure),TRUE
+306226009,SNOMEDCT,Referral to mental health counseling service (procedure),TRUE
+306227000,SNOMEDCT,Referral for mental health counseling (procedure),TRUE
+306252003,SNOMEDCT,Referral to mental health counselor (procedure),TRUE
+306291008,SNOMEDCT,Referral to child and adolescent psychiatrist (procedure),TRUE
+308440001,SNOMEDCT,Referral to social worker (procedure),TRUE
+308459004,SNOMEDCT,Referral to psychologist (procedure),TRUE
+308477009,SNOMEDCT,Referral to psychiatrist (procedure),TRUE
+309627007,SNOMEDCT,Child referral - clinical psychologist (procedure),TRUE
+313082002,SNOMEDCT,Employment education (procedure),TRUE
+313083007,SNOMEDCT,Unemployment counseling (procedure),TRUE
+385767005,SNOMEDCT,Meals on wheels provision education (procedure),TRUE
+390866009,SNOMEDCT,Referral to mental health team (procedure),TRUE
+441041000124100,SNOMEDCT,Counseling about nutrition (procedure),TRUE
+441201000124108,SNOMEDCT,Counseling about nutrition using cognitive-behavioral theoretical approach (procedure),TRUE
+441231000124100,SNOMEDCT,Counseling about nutrition using health belief model (procedure),TRUE
+441241000124105,SNOMEDCT,Counseling about nutrition using social learning theory approach (procedure),TRUE
+441251000124107,SNOMEDCT,Counseling about nutrition using transtheoretical model and stages of change approach (procedure),TRUE
+441261000124109,SNOMEDCT,Counseling about nutrition using motivational interviewing strategy (procedure),TRUE
+441271000124102,SNOMEDCT,Counseling about nutrition using goal setting strategy (procedure),TRUE
+441281000124104,SNOMEDCT,Counseling about nutrition using self-monitoring strategy (procedure),TRUE
+441291000124101,SNOMEDCT,Counseling about nutrition using problem solving strategy (procedure),TRUE
+441301000124100,SNOMEDCT,Counseling about nutrition using social support strategy (procedure),TRUE
+441311000124102,SNOMEDCT,Counseling about nutrition using stress management strategy (procedure),TRUE
+441321000124105,SNOMEDCT,Counseling about nutrition using stimulus control strategy (procedure),TRUE
+441331000124108,SNOMEDCT,Counseling about nutrition using cognitive restructuring strategy (procedure),TRUE
+441341000124103,SNOMEDCT,Counseling about nutrition using relapse prevention strategy (procedure),TRUE
+441351000124101,SNOMEDCT,Counseling about nutrition using rewards and contingency management strategy (procedure),TRUE
+445291000124103,SNOMEDCT,Nutrition-related skill education (procedure),TRUE
+445301000124102,SNOMEDCT,Content-related nutrition education (procedure),TRUE
+445641000124105,SNOMEDCT,Technical nutrition education (procedure),TRUE
+461481000124109,SNOMEDCT,Referral to peer support (procedure),TRUE
+462481000124102,SNOMEDCT,Referral to Community Action Agency program (procedure),TRUE
+462491000124104,SNOMEDCT,Referral to benefits enrollment assistance program (procedure),TRUE
+464001000124109,SNOMEDCT,Referral to case manager (procedure),TRUE
+464011000124107,SNOMEDCT,Referral to care manager (procedure),TRUE
+464021000124104,SNOMEDCT,Referral to care navigator (procedure),TRUE
+464031000124101,SNOMEDCT,Referral to food pantry program (procedure),TRUE
+464041000124106,SNOMEDCT,Referral to Child and Adult Care Food Program (procedure),TRUE
+464051000124108,SNOMEDCT,Referral to Gus Schumacher Nutrition Incentive Program (procedure),TRUE
+464061000124105,SNOMEDCT,Referral to food prescription program (procedure),TRUE
+464071000124103,SNOMEDCT,Referral to garden program (procedure),TRUE
+464081000124100,SNOMEDCT,Referral to home-delivered meals program (procedure),TRUE
+464091000124102,SNOMEDCT,Referral to medically tailored meal program (procedure),TRUE
+464101000124108,SNOMEDCT,Referral to Supplemental Nutrition Assistance Program (procedure),TRUE
+464111000124106,SNOMEDCT,"Referral to Special Supplemental Nutrition Program for Women, Infants and Children (procedure)",TRUE
+464121000124103,SNOMEDCT,Referral to Summer Food Service Program (procedure),TRUE
+464131000124100,SNOMEDCT,Referral to community health worker (procedure),TRUE
+464141000124105,SNOMEDCT,Referral to Meals on Wheels Program (procedure),TRUE
+464151000124107,SNOMEDCT,Referral to congregate meal program (procedure),TRUE
+464161000124109,SNOMEDCT,Referral to community resource network program (procedure),TRUE
+464171000124102,SNOMEDCT,Referral to Senior Farmers' Market Nutrition Program (procedure),TRUE
+464181000124104,SNOMEDCT,"Referral to Farmers' Market Nutrition Program for Women, Infants and Children (procedure)",TRUE
+464191000124101,SNOMEDCT,Referral to Food Distribution Program on Indian Reservations (procedure),TRUE
+464201000124103,SNOMEDCT,Education about Child and Adult Care Food Program (procedure),TRUE
+464211000124100,SNOMEDCT,Education about Community Meals Program (procedure),TRUE
+464221000124108,SNOMEDCT,Education about Gus Schumacher Nutrition Incentive Program (procedure),TRUE
+464231000124106,SNOMEDCT,Education about food pantry program (procedure),TRUE
+464241000124101,SNOMEDCT,Education about food prescription program (procedure),TRUE
+464251000124104,SNOMEDCT,Education about garden program (procedure),TRUE
+464261000124102,SNOMEDCT,Education about home-delivered meals program (procedure),TRUE
+464271000124109,SNOMEDCT,Education about medically tailored meal program (procedure),TRUE
+464281000124107,SNOMEDCT,"Education about Special Supplement Nutrition Program for Women, Infants and Children (procedure)",TRUE
+464291000124105,SNOMEDCT,Education about community resource network program (procedure),TRUE
+464301000124106,SNOMEDCT,Education about benefits enrollment assistance program (procedure),TRUE
+464311000124109,SNOMEDCT,Education about Community Action Agency program (procedure),TRUE
+464321000124101,SNOMEDCT,Education about Food Distribution Program on Indian Reservations (procedure),TRUE
+464331000124103,SNOMEDCT,"Education about Farmers' Market Nutrition Program for Women, Infants and Children (procedure)",TRUE
+464341000124108,SNOMEDCT,Education about Senior Farmers' Market Nutrition Program (procedure),TRUE
+464351000124105,SNOMEDCT,Education about congregate meal program (procedure),TRUE
+464361000124107,SNOMEDCT,Education about Supplemental Nutrition Assistance Program (procedure),TRUE
+464371000124100,SNOMEDCT,Education about Summer Food Service Program (procedure),TRUE
+464401000124102,SNOMEDCT,Provision of fresh fruit and vegetable voucher (procedure),TRUE
+464411000124104,SNOMEDCT,Provision of food voucher (procedure),TRUE
+464421000124107,SNOMEDCT,Provision of home-delivered meals (procedure),TRUE
+464431000124105,SNOMEDCT,Provision of medically tailored meals (procedure),TRUE
+464611000124102,SNOMEDCT,Coordination of care team (procedure),TRUE
+464621000124105,SNOMEDCT,Evaluation of eligibility for home-delivered meals program (procedure),TRUE
+464631000124108,SNOMEDCT,Evaluation of eligibility for Meals on Wheels program (procedure),TRUE
+464641000124103,SNOMEDCT,Evaluation of eligibility for medically tailored meals program (procedure),TRUE
+464651000124101,SNOMEDCT,Evaluation of eligibility for Senior Farmers' Market Nutrition Program (procedure),TRUE
+464661000124104,SNOMEDCT,"Evaluation of eligibility for Special Supplemental Nutrition Program for Women, Infants and Children (procedure)",TRUE
+464671000124106,SNOMEDCT,Counseling for readiness to implement food insecurity care plan (procedure),TRUE
+464681000124109,SNOMEDCT,Counseling for food insecurity care plan participation barriers (procedure),TRUE
+464691000124107,SNOMEDCT,Counseling for barriers to achieving food security (procedure),TRUE
+464701000124107,SNOMEDCT,Counseling for readiness to achieve food security goals (procedure),TRUE
+464721000124102,SNOMEDCT,Provision of food prescription (procedure),TRUE
+467591000124102,SNOMEDCT,Evaluation of eligibility for food pantry program (procedure),TRUE
+467601000124105,SNOMEDCT,Evaluation of eligibility for Food Distribution Program on Indian Reservations (procedure),TRUE
+467611000124108,SNOMEDCT,"Evaluation of eligibility for Farmers' Market Nutrition Program for Women, Infants and Children (procedure)",TRUE
+467621000124100,SNOMEDCT,Evaluation of eligibility for Supplemental Nutrition Assistance Program (procedure),TRUE
+467631000124102,SNOMEDCT,Evaluation of eligibility for Summer Food Service Program (procedure),TRUE
+467641000124107,SNOMEDCT,Evaluation of eligibility for Gus Schumacher Nutrition Incentive funded program (procedure),TRUE
+467651000124109,SNOMEDCT,Evaluation of eligibility for garden program (procedure),TRUE
+467661000124106,SNOMEDCT,Evaluation of eligibility for Community Meal Program (procedure),TRUE
+467671000124104,SNOMEDCT,Evaluation of eligibility for Child and Adult Care Food Program (procedure),TRUE
+467681000124101,SNOMEDCT,Assistance with application for Summer Food Service Program (procedure),TRUE
+467691000124103,SNOMEDCT,"Assistance with application for Special Supplemental Nutrition Program for Women, Infants and Children (procedure)",TRUE
+467711000124100,SNOMEDCT,Assistance with application for Senior Farmers' Market Nutrition Program (procedure),TRUE
+467721000124108,SNOMEDCT,Assistance with application for Medically Tailored Meals Program (procedure),TRUE
+467731000124106,SNOMEDCT,Assistance with application for Home-Delivered Meals Program (procedure),TRUE
+467741000124101,SNOMEDCT,Assistance with Application for Gus Schumacher Nutrition Incentive Program (procedure),TRUE
+467751000124104,SNOMEDCT,Assistance with application for garden program (procedure),TRUE
+467761000124102,SNOMEDCT,Assistance with application for food prescription program (procedure),TRUE
+467771000124109,SNOMEDCT,Assistance with application for food pantry program (procedure),TRUE
+467781000124107,SNOMEDCT,Assistance with application for Child and Adult Care Food Program (procedure),TRUE
+467791000124105,SNOMEDCT,Assistance with application for Food Distribution Program on Indian Reservations (procedure),TRUE
+467801000124106,SNOMEDCT,Assistance with application for Community Meal Program (procedure),TRUE
+467811000124109,SNOMEDCT,"Assistance with application for Farmers' Market Nutrition Program for Women, Infants and Children (procedure)",TRUE
+467821000124101,SNOMEDCT,Assistance with application for Supplemental Nutrition Assistance Program (procedure),TRUE
+470231000124107,SNOMEDCT,Counseling for social determinant of health risk (procedure),TRUE
+470431000124106,SNOMEDCT,Referral to weatherization assistance program (procedure),TRUE
+470441000124101,SNOMEDCT,Evaluation of eligibility for weatherization assistance program (procedure),TRUE
+470451000124104,SNOMEDCT,Education about weatherization assistance program (procedure),TRUE
+470461000124102,SNOMEDCT,Assistance with application for weatherization assistance program (procedure),TRUE
+470471000124109,SNOMEDCT,Assistance with application for rental assistance program (procedure),TRUE
+470481000124107,SNOMEDCT,Assistance with application for subsidized housing program (procedure),TRUE
+470491000124105,SNOMEDCT,Evaluation of eligibility for subsidized housing program (procedure),TRUE
+470501000124102,SNOMEDCT,Education about subsidized housing program (procedure),TRUE
+470581000124106,SNOMEDCT,Education about healthcare for the homeless program (procedure),TRUE
+470591000124109,SNOMEDCT,Education about community development financial institution (procedure),TRUE
+470601000124101,SNOMEDCT,Education about community development corporation (procedure),TRUE
+470611000124103,SNOMEDCT,Education about area agency on aging program (procedure),TRUE
+470781000124104,SNOMEDCT,Evaluation of eligibility for permanent supportive housing program (procedure),TRUE
+470791000124101,SNOMEDCT,Assistance with application for permanent supportive housing program (procedure),TRUE
+470801000124100,SNOMEDCT,Education about permanent supportive housing program (procedure),TRUE
+470811000124102,SNOMEDCT,Evaluation of eligibility for transitional housing program (procedure),TRUE
+470821000124105,SNOMEDCT,Education about transitional housing program (procedure),TRUE
+470831000124108,SNOMEDCT,Assistance with application for transitional housing program (procedure),TRUE
+470841000124103,SNOMEDCT,Referral to healthcare for the homeless program (procedure),TRUE
+471021000124108,SNOMEDCT,Referral to street outreach program (procedure),TRUE
+471031000124106,SNOMEDCT,Education about street outreach program (procedure),TRUE
+471041000124101,SNOMEDCT,Referral to rental assistance program (procedure),TRUE
+471051000124104,SNOMEDCT,Referral to Homelessness Prevention program (procedure),TRUE
+471061000124102,SNOMEDCT,Referral to mortgage assistance program (procedure),TRUE
+471071000124109,SNOMEDCT,Referral to fair housing assistance program (procedure),TRUE
+471081000124107,SNOMEDCT,Referral to Day Shelter program (procedure),TRUE
+471091000124105,SNOMEDCT,Referral to Emergency Shelter program (procedure),TRUE
+471101000124104,SNOMEDCT,Referral to coordinated entry program (procedure),TRUE
+471111000124101,SNOMEDCT,Referral to community development financial institution (procedure),TRUE
+471121000124109,SNOMEDCT,Referral to community development corporation (procedure),TRUE
+471131000124107,SNOMEDCT,Referral to area agency on aging (procedure),TRUE
+472031000124103,SNOMEDCT,Evaluation of eligibility for Safe Haven Program (procedure),TRUE
+472041000124108,SNOMEDCT,Referral to subsidized housing service (procedure),TRUE
+472051000124105,SNOMEDCT,Education about Safe Haven program (procedure),TRUE
+472081000124102,SNOMEDCT,Education about rental assistance program (procedure),TRUE
+472091000124104,SNOMEDCT,Evaluation of eligibility for rental assistance program (procedure),TRUE
+472101000124105,SNOMEDCT,Evaluation of eligibility for Rapid Re-housing program (procedure),TRUE
+472111000124108,SNOMEDCT,Education about Rapid Re-housing program (procedure),TRUE
+472121000124100,SNOMEDCT,Assistance with application for Rapid Re-housing program (procedure),TRUE
+472131000124102,SNOMEDCT,Provision of rental assistance voucher (procedure),TRUE
+472141000124107,SNOMEDCT,Referral to medical respite for homeless program (procedure),TRUE
+472151000124109,SNOMEDCT,Referral to medical legal partnership program (procedure),TRUE
+472161000124106,SNOMEDCT,Referral to housing support program (procedure),TRUE
+472191000124103,SNOMEDCT,Counseling for readiness to achieve housing security goals (procedure),TRUE
+472201000124100,SNOMEDCT,Counseling for readiness to achieve adequate housing goals (procedure),TRUE
+472211000124102,SNOMEDCT,Counseling for readiness to implement inadequate housing care plan (procedure),TRUE
+472221000124105,SNOMEDCT,Counseling for readiness to implement housing insecurity care plan (procedure),TRUE
+472231000124108,SNOMEDCT,Counseling for barriers to achieve adequate housing (procedure),TRUE
+472241000124103,SNOMEDCT,Counseling for barriers to achieve housing security (procedure),TRUE
+472251000124101,SNOMEDCT,Counseling for inadequate housing care plan participation barriers (procedure),TRUE
+472261000124104,SNOMEDCT,Counseling for housing insecurity care plan participation barriers (procedure),TRUE
+472271000124106,SNOMEDCT,Provision of mortgage assistance voucher (procedure),TRUE
+472281000124109,SNOMEDCT,Evaluation of eligibility for mortgage assistance program (procedure),TRUE
+472291000124107,SNOMEDCT,Education about mortgage assistance program (procedure),TRUE
+472301000124108,SNOMEDCT,Evaluation of eligibility for medical respite for homeless program (procedure),TRUE
+472311000124106,SNOMEDCT,Education about medical respite for homeless program (procedure),TRUE
+472321000124103,SNOMEDCT,Assistance with application for medical respite for homeless program (procedure),TRUE
+472331000124100,SNOMEDCT,Education about medical legal partnership program (procedure),TRUE
+472341000124105,SNOMEDCT,Evaluation of eligibility for Housing with Services program (procedure),TRUE
+472351000124107,SNOMEDCT,Assistance with application for Housing with Services (procedure),TRUE
+472361000124109,SNOMEDCT,Education about Housing with Services program (procedure),TRUE
+472371000124102,SNOMEDCT,Provision of voucher for repair of place of residence (procedure),TRUE
+472381000124104,SNOMEDCT,Provision of emergency housing fund voucher (procedure),TRUE
+480791000124106,SNOMEDCT,Evaluation of eligibility for Street Outreach program (procedure),TRUE
+480801000124107,SNOMEDCT,Assistance with application for Safe Haven program (procedure),TRUE
+480811000124105,SNOMEDCT,Evaluation of eligibility for Housing Only program (procedure),TRUE
+480821000124102,SNOMEDCT,Education about Housing Only program (procedure),TRUE
+480831000124104,SNOMEDCT,Assistance with application for Housing Only program (procedure),TRUE
+480841000124109,SNOMEDCT,Education about Homelessness Prevention program (procedure),TRUE
+480851000124106,SNOMEDCT,Evaluation of eligibility for Homelessness Prevention program (procedure),TRUE
+480861000124108,SNOMEDCT,Assistance with application to Homelessness Prevention program (procedure),TRUE
+480871000124101,SNOMEDCT,Evaluation of eligibility for healthcare for homeless program (procedure),TRUE
+480881000124103,SNOMEDCT,Referral to environmental hazard testing of residence program (procedure),TRUE
+480891000124100,SNOMEDCT,Evaluation of eligibility for environmental hazard testing of residence program (procedure),TRUE
+480901000124101,SNOMEDCT,Education about fair housing assistance program (procedure),TRUE
+480911000124103,SNOMEDCT,Education about environmental hazard testing of residence program (procedure),TRUE
+480921000124106,SNOMEDCT,Assistance with application to Emergency Shelter program (procedure),TRUE
+480931000124109,SNOMEDCT,Evaluation of eligibility for Emergency Shelter program (procedure),TRUE
+480941000124104,SNOMEDCT,Education about Emergency Shelter program (procedure),TRUE
+480951000124102,SNOMEDCT,Assistance with application for environmental hazard testing of residence program (procedure),TRUE
+480961000124100,SNOMEDCT,Education about Day Shelter program (procedure),TRUE
+480971000124107,SNOMEDCT,Education about Coordinated Entry program (procedure),TRUE
+480981000124105,SNOMEDCT,Assistance with application for Day Shelter program (procedure),TRUE
+49919000,SNOMEDCT,Home safety education (procedure),TRUE
+61310001,SNOMEDCT,Nutrition education (procedure),TRUE
+703978000,SNOMEDCT,Referral to primary care service (procedure),TRUE
+710824005,SNOMEDCT,Assessment of health and social care needs (procedure),TRUE
+710914003,SNOMEDCT,Referral to family therapy (procedure),TRUE
+710925007,SNOMEDCT,Provision of food (procedure),TRUE
+711069006,SNOMEDCT,Coordination of care plan (procedure),TRUE
+711281004,SNOMEDCT,Referral to support group (procedure),TRUE
+713109004,SNOMEDCT,Referral to community meals service (procedure),TRUE
+96156,CPT,"Health behavior assessment, or re-assessment (ie, health-focused clinical interview, behavioral observations, clinical decision making)",TRUE
+96160,CPT,"Administration of patient-focused health risk assessment instrument (eg, health hazard appraisal) with scoring and documentation, per standardized instrument",TRUE
+96161,CPT,"Administration of caregiver-focused health risk assessment instrument (eg, depression inventory) for the benefit of the patient, with scoring and documentation, per standardized instrument",TRUE
+97802,CPT,"Medical nutrition therapy; initial assessment and intervention, individual, face-to-face with the patient, each 15 minutes",TRUE
+97803,CPT,"Medical nutrition therapy; re-assessment and intervention, individual, face-to-face with the patient, each 15 minutes",TRUE
+97804,CPT,"Medical nutrition therapy; group (2 or more individual(s)), each 30 minutes",TRUE
+S5170,HCPCS Level II,"Home delivered meals, including preparation; per meal",TRUE
+S9470,HCPCS Level II,"Nutritional counseling, dietitian visit",TRUE

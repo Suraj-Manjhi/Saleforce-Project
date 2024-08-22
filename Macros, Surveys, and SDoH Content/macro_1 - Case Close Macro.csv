@@ -1,0 +1,2 @@
+DESCRIPTION,ID,ISDELETED,ISLIGHTNINGSUPPORTED,NAME,STARTINGCONTEXT
+<p>Closes the currently open case and sends the patient a survey</p>,0JZ5f000001SqJ0GAK,FALSE,TRUE,Close Case and Send Survey,Case
