@@ -1,4 +1,4 @@
- 
+213930720-bc9259cd-2d9d-4f78-b2a6-0a5252323caf.png 
 Create Objects from Spreadsheet  
 1. Create Objects from Spreadsheet  
 a. Create Course Object:
