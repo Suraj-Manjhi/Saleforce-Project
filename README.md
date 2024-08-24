@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/5fb4dd88-8e0c-43a9-80d0-d47bac3d767c
+
+
 Create Objects from Spreadsheet  
 1. Create Objects from Spreadsheet  
 a. Create Course Object:
@@ -151,6 +157,9 @@ Thank you.
 11. Save and Activate the Flow  
 1.	Save the flow with the name EduConsultPro Student Flow.
 2.	Click Activate to make the flow available for use.
+
+![image](https://github.com/user-attachments/assets/59614fe3-31b4-43a9-bc30-3f1e4df6e5c2)
+
  
  
  
@@ -188,7 +197,9 @@ Create Users
 	In the Manager field, select Consultant from the dropdown list.
 3.	Save Changes:
 	Click Save.
- 
+
+ ![image](https://github.com/user-attachments/assets/1b2a91e4-181a-45e7-a0d0-54b7b4fa7ee2)
+
  
  
 Create an Approval Process for Property Object  
@@ -326,6 +337,9 @@ o	For Trigger the Flow When, select A record is created.
 	Label the flow as EduConsultPro Approval Flow.
 2.	Activate the Flow:
 	Click on Activate to make the flow live.
+
+![image](https://github.com/user-attachments/assets/57d5298a-171c-4167-a099-0afb6d595f33)
+
  
 Create a ScreenFlow for Existing Student to Book an Appointment  
 1. Create a New Screen Flow  
@@ -534,8 +548,10 @@ Create a lightning app page
  
  
  
- 
- 
+ ![image](https://github.com/user-attachments/assets/16a9148b-695a-4b33-9fda-37ea623b6b76)
+
+ ![image](https://github.com/user-attachments/assets/6ab9f198-3386-4e6e-9d02-2817fd2e15d0)
+
 
 
  
